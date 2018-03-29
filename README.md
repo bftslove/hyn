@@ -1,1 +1,2 @@
 # hyn
+print('hello world')
